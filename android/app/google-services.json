@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "905633992670",
+    "project_id": "fb-proj-rivaan-ranawat",
+    "storage_bucket": "fb-proj-rivaan-ranawat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905633992670:android:4b65fb213e6680f410d74f",
+        "android_client_info": {
+          "package_name": "com.example.insta_clone_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcZcLHndej8b2QuVdVjSZjFA0oG6bgUPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
